@@ -9,18 +9,16 @@
   <table>
     <tr>
       <td>
-        <iframe src="https://github-readme-streak-stats.herokuapp.com/?user=yasuo23&theme=dark&hide_border=false" width="800" height="600"></iframe>
 
-<!--         <img src="https://github-readme-stats.vercel.app/api?username=yasuo23&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
-      </td> -->
+       <img src="https://github-readme-stats.vercel.app/api?username=yasuo23&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
+      </td> 
       <td>
-        ![](https://github-readme-streak-stats.herokuapp.com/?user=yasuo23&theme=dark&hide_border=false)
-<!--         <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasuo23&theme=dark&hide_border=false"/>
-      </td> -->
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasuo23&theme=dark&hide_border=false"/>
+      </td> 
     </tr>
     <tr>
       <td colspan="2" align="center">
-      ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasuo23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasuo23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
         
       </td>
     </tr>
