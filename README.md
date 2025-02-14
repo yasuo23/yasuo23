@@ -1,9 +1,7 @@
 
 ## 👋 Hi there! I'm Yasu  
 
-<table>
-  <tr>
-    <td valign="top">
+
       
 ### 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -15,16 +13,23 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-   </td>
-    <td valign="top">
+
       
 ### 📊 GitHub Stats:
+<table>
+  <tr>
+    <td valign="top">
 ![](https://github-readme-stats.vercel.app/api?username=yasuo23&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+         </td>
+  </tr>
+   <tr>
+    <td valign="top">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yasuo23&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasuo23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-   </td>
+       </td>
   </tr>
 </table>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasuo23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+  
 
 
