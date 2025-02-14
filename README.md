@@ -9,6 +9,8 @@
   <table>
     <tr>
       <td>
+        <iframe src="https://github-readme-streak-stats.herokuapp.com/?user=yasuo23&theme=dark&hide_border=false" width="800" height="600"></iframe>
+
 <!--         <img src="https://github-readme-stats.vercel.app/api?username=yasuo23&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
       </td> -->
       <td>
